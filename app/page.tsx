@@ -11,8 +11,8 @@ export default function Home() {
       <h1>HELLO WOLD!</h1>
       {/* <Link href='/about'>Go To About Page</Link> */}
       <p>
-        <Link href='/users'>Users</Link>
+        <Link href='/user'>Users</Link>
       </p>
     </main>
-  ) 
+  )
 }
